@@ -5,6 +5,8 @@
 - ✨ Ability to communicate and work with a team
 - ✨ Ability to plan, organize and set priorities efficiently and effectively
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ycinjavascript)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ycinjavascript/ycinjavascript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
