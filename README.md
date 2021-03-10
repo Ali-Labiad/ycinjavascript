@@ -1,8 +1,8 @@
 [![Header](dev.png "Header")](https://some-url.dev/)
 
-⚡ 3 years of experience in application development
-⚡ Ability to communicate and work with a team
-⚡ Ability to plan, organize and set priorities efficiently and effectively
+- 3 years of experience in application development
+- Ability to communicate and work with a team
+- Ability to plan, organize and set priorities efficiently and effectively
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
